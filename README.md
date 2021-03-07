@@ -7,4 +7,5 @@ Learn a new programming language (Assembly)
 #### Argument order: rdi, rsi, rdx, rcx, r8, r9
 #### Put syscall number in rax
 #### Put 0x200000 before the syscall number
+##### For hexadecimal numbers, but 0x before the number or h after the number (0xff or ffh)
 
