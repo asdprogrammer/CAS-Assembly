@@ -12,6 +12,6 @@ Learn a new programming language (Assembly)
 #### Macros:
 ```asmx86
 %macro name arguments
-  %1, %2, etc... for getting the arguments`
-%%endmacro
+  ; %1, %2, etc... for getting the arguments
+%endmacro
 ```
