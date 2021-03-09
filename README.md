@@ -10,7 +10,7 @@ Learn a new programming language (Assembly)
 ##### For hexadecimal numbers, but 0x before the number or h after the number (0xff or ffh)
 
 #### Macros:
-```asmx86
+```asm
 %macro name arguments
   ; %1, %2, etc... for getting the arguments
 %endmacro
