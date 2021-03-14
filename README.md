@@ -2,6 +2,7 @@
 Learn a new programming language (Assembly)
 
 ## Notes:
+#### List of instructions: https://en.wikipedia.org/wiki/X86_instruction_listings
 #### List of syscalls: https://opensource.apple.com/source/xnu/xnu-1504.3.12/bsd/kern/syscalls.master
 
 #### Argument order: rdi, rsi, rdx, rcx, r8, r9
