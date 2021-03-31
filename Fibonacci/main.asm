@@ -42,7 +42,6 @@ _start:
   ; put the stored value into rdi
   mov rdi, rsi
 
-  mov output, rdi
-  print output, 10
+  loop _start
 
   exit
